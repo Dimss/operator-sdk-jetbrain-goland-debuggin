@@ -1,4 +1,4 @@
-# operator-sdk-jetbrain-goland-debuggin
+# operator-sdk-jetbrain-goland-debugging
 To be albe to run and debug your operator locally not by using `operator-sdk up local` command 
 but straight from ( in my case ) JetBrain's GoLang IDE, do the following 
 1. Export env var KUBERNETES_CONFIG=/path/to/your/kube/config/file
